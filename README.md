@@ -21,6 +21,18 @@ Opportunities and gaps in computational modelling of landscapes to improve water
 6. Bansal, C., Ahlawat, H. O., Jain, M., Prakash, O., **Mehta, S. A.**, Singh, D., ... & Seth, A. (2021, June). IndiaSat: A Pixel-Level Dataset for Land-Cover Classification on Three Satellite Systems-Landsat-7, Landsat-8, and Sentinel-2. In Proceedings of the 4th ACM SIGCAS Conference on Computing and Sustainable Societies (pp. 147-155). [[Paper PDF]](https://dl.acm.org/doi/pdf/10.1145/3460112.3471953)
 
 
+## Conferences and Workshops
+1. SENSE-IHE Delft PhD Symposium “From uncertainty to resilience: Data, climate and society”, October 22-23, 2025, IHE Delft, Delft, The Netherlands. **(Presentation)**
+2. 10th International Groundwater Conference (IGWC), Groundwater Vision 2047 Towards Water Security under Changing Climate, March 05-07, 2025, National Institute of Hydrology, Roorkee, India. **(Presentation)**
+3. INAE Annual Convention, December 19-21, 2024, IIT Delhi, New Delhi, India. **(Poster)**
+4. Climate Change AI In-Person Summer School, August 12-16, 2024, Mila - Quebec AI Institute, Montreal, Canada. **(Selected)**
+5. Geo-Innovation Challenge under the National Geospatial Program of the Department of Science and Technology, Government of India, July 25-27, 2024, Anna University, Chennai, Tamil Nadu, India. **(Presentation)**
+6. Doctoral consortium, ACM COMPASS, July 8-11, 2024, IIIT Delhi, New Delhi, India. **(Poster)**
+7. “3-minute thesis" event conducted during the research scholar week organized by Research Scholar Forum (RSF), March 18-22, 2024, IIT Delhi. **(Presentation)**
+8. GeoSmart India Conference, October 17– 19, 2023, HICC, Hyderabad, India. **(Presentation)**
+9. SIGCHI-sponsored HCI & Friends Symposium, December 9–11, 2022, IIT Bombay, Mumbai, India. **(Poster)**       
+
+
 ## Teaching 
 - COL100 - Introduction to Computer Science: UG 1st year course
 - COL334 - Computer Networks: UG 3rd year course
