@@ -1,6 +1,6 @@
-# Your Name
-**PhD Candidate** | Department of [Your Dept], [Your University]  
-*Email:* your.email@univ.edu | [Google Scholar](link) | [ORCID](link)
+# Shivani A. Mehta
+**PhD student** | School of Information Technology, IIT Delhi 
+*Email:* Shivani.A.Mehta@sit.iitd.ac.in | [Google Scholar](https://scholar.google.com/citations?user=Yjt9W28AAAAJ&hl=en) | [ORCID](https://orcid.org/0009-0001-6955-4381)
 
 ---
 
