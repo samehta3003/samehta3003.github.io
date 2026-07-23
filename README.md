@@ -1,4 +1,5 @@
 # Shivani A. Mehta
+<img src="linkedIn photo.jpeg" alt="Profile Picture" width="180" style="border-radius: 50%;">
 **PhD student** | School of Information Technology, IIT Delhi 
 *Email:* Shivani.A.Mehta@sit.iitd.ac.in | [Google Scholar](https://scholar.google.com/citations?user=Yjt9W28AAAAJ&hl=en) | [ORCID](https://orcid.org/0009-0001-6955-4381)
 
@@ -19,4 +20,4 @@ I am a PhD researcher working on... My research focuses on...
 
 ## Teaching & CV
 - Teaching Assistant for Course X (Fall 2025)
-- [Download my full CV (PDF)](link)
+- [Download my full CV (PDF)](Shivani Mehta CV July 2026.pdf)
