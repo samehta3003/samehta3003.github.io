@@ -6,12 +6,11 @@
 
 ---
 
-## About Me
-I am a PhD researcher working on... My research focuses on...
+## Research statement
+Erratic rainfall due to climate change along with depleted groundwater tables poses a significant threat to the sustainability of agriculture in India, on which nearly half of the rural population depends for its livelihood and sustenance. In response, various welfare and social protection schemes in India fund the construction of water assets such as farm ponds and check dams, through participatory planning processes with rural communities embedded within local governance institutions. However, persistent challenges remain in such participatory planning processes, such as inequities in participation, instances of spurious and non-functional assets, and top-down guidelines that hinder context-sensitive planning. To address such challenges, I led the development of the underlying geospatial dataset infrastructure and the overall design of *Commons Connect*, a digital participatory tool designed to improve transparency and build community consensus to improve equity in asset allocation. The tool provides various geospatial datasets generated at village-level planning scales to identify viable and useful locations for assets. Building on this, I developed an impact projection framework as a digital-twin to simulate climate resilience under different what-if scenarios of planning. Finally, I built a scalable system for knowledge representation and transfer that enables the identification of localized landscape stresses using dozens of social-ecological indicators across diverse production systems and regions in India. Together, these contributions aim to bring evidence-based, equitable and climate-resilient community-led planning for rural areas. Tools like *Commons Connect* founded on my research are now being widely adopted and used across nine states in India. 
 
-## Research Interests
-- **Topic 1:** Brief description
-- **Topic 2:** Brief description
+## Thesis title
+Opportunities and gaps in computational modelling of landscapes to improve water security in rural India
 
 ## Publications
 1. **Mehta, S. A.**, Dutt, A., Tannirkulam, A., Singh, A. P., Verma, A., Singha, A., ... & Seth, A. (2024, December). Initial observations from field testing of a digital participatory tool to improve water security in rural India. In Proceedings of the 13th International Conference on Information & Communication Technologies and Development (pp. 337-364). [[Paper PDF]](https://dl.acm.org/doi/pdf/10.1145/3700794.3700816)
@@ -21,8 +20,6 @@ I am a PhD researcher working on... My research focuses on...
 5. Jingar, V., Sahoo, S., S, S., Sharma, D., **Mehta, S. A.**, & Seth, A. (2024, July). Initial experiments with a scalable machine learning based approach for downscaling the MOD16A2 evapotranspiration product. In Proceedings of the 7th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (pp. 127-143). [[Paper PDF]](https://dl.acm.org/doi/pdf/10.1145/3674829.3675068)
 6. Bansal, C., Ahlawat, H. O., Jain, M., Prakash, O., **Mehta, S. A.**, Singh, D., ... & Seth, A. (2021, June). IndiaSat: A Pixel-Level Dataset for Land-Cover Classification on Three Satellite Systems-Landsat-7, Landsat-8, and Sentinel-2. In Proceedings of the 4th ACM SIGCAS Conference on Computing and Sustainable Societies (pp. 147-155). [[Paper PDF]](https://dl.acm.org/doi/pdf/10.1145/3460112.3471953)
 
-## Ongoing Projects
-- **Project A:** What you are working on currently.
 
 ## Teaching 
 - COL100 - Introduction to Computer Science: UG 1st year course
@@ -34,3 +31,10 @@ I am a PhD researcher working on... My research focuses on...
 
 ## CV
 - [Download my full CV (PDF)](Shivani Mehta CV July 2026.pdf)
+
+## Research Interests
+- **Topic 1:** Brief description
+- **Topic 2:** Brief description
+
+## Ongoing Projects
+- **Project A:** What you are working on currently.
