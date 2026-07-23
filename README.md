@@ -1,7 +1,15 @@
-# Shivani A. Mehta
-<img src="linkedIn photo.jpeg" alt="Profile Picture" width="180" style="border-radius: 50%;">
-**PhD student** | School of Information Technology, IIT Delhi 
-*Email:* Shivani.A.Mehta@sit.iitd.ac.in | [Google Scholar](https://scholar.google.com/citations?user=Yjt9W28AAAAJ&hl=en) | [ORCID](https://orcid.org/0009-0001-6955-4381)
+<table>
+  <tr>
+    <td width="200" align="center" valign="top">
+      <img src="linkedIn photo.jpeg" alt="Shivani A. Mehta" width="180" style="border-radius: 50%;">
+    </td>
+    <td valign="top">
+      <h1>Shivani A. Mehta</h1>
+      <p><strong>PhD student</strong> | School of Information Technology, IIT Delhi</p>
+      <p><em>Email:</em> Shivani.A.Mehta@sit.iitd.ac.in | <a href="https://scholar.google.com/citations?user=Yjt9W28AAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0009-0001-6955-4381">ORCID</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -13,7 +21,7 @@ I am a PhD researcher working on... My research focuses on...
 - **Topic 2:** Brief description
 
 ## Selected Publications
-1. **Your Name**, Co-Author (2026). *Paper Title Here*. Journal Name. [[Paper PDF]](link) [[Code]](link)
+1. **Shivani A. Mehta**, Co-Author (2026). *Paper Title Here*. Journal Name. [[Paper PDF]](link) [[Code]](link)
 
 ## Ongoing Projects
 - **Project A:** What you are working on currently.
