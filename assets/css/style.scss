@@ -1,1 +1,9 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+/* Hide the default GitHub profile / repository link in the sidebar */
+header p.view {
+  display: none !important;
+}
