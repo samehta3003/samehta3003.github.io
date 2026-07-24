@@ -39,6 +39,9 @@ Erratic rainfall due to climate change along with depleted groundwater tables po
 8. GeoSmart India Conference, October 17– 19, 2023, HICC, Hyderabad, India. **(Presentation)**
 9. SIGCHI-sponsored HCI & Friends Symposium, December 9–11, 2022, IIT Bombay, Mumbai, India. **(Poster)**       
 
+## Professional service
+- Reviewer: ACM COMPASS 2025, AAAI-AISI 2025, ACM JCSS 2023
+  
 ## Awards
 - **Teaching Assistant Award, IIT Delhi** : COL334: Computer Networks in Semester I, 2023–24
 - **Teaching Assistant Award, IIT Delhi** : COL100: Introduction to Computer Science in Semester I, 2022–23
@@ -48,9 +51,6 @@ Erratic rainfall due to climate change along with depleted groundwater tables po
 - COL100 - Introduction to Computer Science: UG 1st year course
 - COL334 - Computer Networks: UG 3rd year course
 - COL707 - Introduction to Ethical Issues in Computer Science: PG course
-
-## Professional service
-- Reviewer: ACM COMPASS 2025, AAAI-AISI 2025, ACM JCSS 2023
 
 ## Position of responsibility
 - House Honours Committee Member - House Honours Committee, Saptagiri Hostel, IIT Delhi
