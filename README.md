@@ -10,9 +10,9 @@
 Opportunities and gaps in computational modelling of landscapes to improve water security in rural India
 
 ## Supervisor
-Prof. Aaditeshwar Seth, Department of Computer Science and Engineering, IIT Delhi [[Webpage]](https://www.cse.iitd.ac.in/~aseth/publications.html)
+Prof. Aaditeshwar Seth, Department of Computer Science and Engineering, IIT Delhi [[Webpage]](https://www.cse.iitd.ac.in/~aseth)
 
-##Description
+## Thesis description
 Development of machine learning- and LLM-based geospatial tools for climate-resilient planning of water structures in rural India. One such tool, *Commons Connect*, is now deployed across nine Indian states. 
 
 ## Research statement
