@@ -1,5 +1,6 @@
 **Email:** Shivani.A.Mehta@sit.iitd.ac.in; samehta3003@gmail.com
 
+[![Full CV](https://img.shields.io/badge/Download_Full_CV)](Shivani Mehta CV July 2026.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-a-mehta-403597127/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Yjt9W28AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6955-4381)
