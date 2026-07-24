@@ -40,11 +40,11 @@ Erratic rainfall due to climate change along with depleted groundwater tables po
 9. SIGCHI-sponsored HCI & Friends Symposium, December 9–11, 2022, IIT Bombay, Mumbai, India. **(Poster)**       
 
 ## Professional service
-- Reviewer: ACM COMPASS 2025, AAAI-AISI 2025, ACM JCSS 2023
+- Reviewer: ACM COMPASS (2025), AAAI-AISI (2025), ACM JCSS (2023)
   
 ## Awards
-- **Teaching Assistant Award, IIT Delhi** : COL334: Computer Networks in Semester I, 2023–24
-- **Teaching Assistant Award, IIT Delhi** : COL100: Introduction to Computer Science in Semester I, 2022–23
+- **Teaching Assistant Award, IIT Delhi** : Computer Networks (COL334) in Semester I, 2023–24
+- **Teaching Assistant Award, IIT Delhi** : Introduction to Computer Science (COL100) in Semester I, 2022–23
 - **Lab Demo Award, IIT Delhi** : 17th Open House, December 9, 2024
 
 ## Teaching assistanship
