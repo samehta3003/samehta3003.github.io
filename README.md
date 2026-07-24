@@ -1,13 +1,6 @@
 **Email:** Shivani.A.Mehta@sit.iitd.ac.in; samehta3003@gmail.com
 
-<!-- Flat Square Style -->
-[![CV](https://img.shields.io/badge/Full_CV-Download-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](YOUR_CV_LINK_HERE)
-
-<!-- Academic / Neutral Grey Style -->
-[![Resume](https://img.shields.io/badge/Resume-PDF-555555?style=flat-square&logo=googlechrome&logoColor=white)](YOUR_CV_LINK_HERE)
-
-<!-- Minimalist Black Style -->
-[![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae-PDF-black?style=flat-square)](YOUR_CV_LINK_HERE)
+[![CV](https://img.shields.io/badge/Full_CV-Download-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](Shivani Mehta CV July 2026.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-a-mehta-403597127/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Yjt9W28AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6955-4381)
@@ -63,7 +56,5 @@ Erratic rainfall due to climate change along with depleted groundwater tables po
 - House Honours Committee Member - House Honours Committee, Saptagiri Hostel, IIT Delhi
 - Prize Committee Member - Prize Committee, Saptagiri Hostel, IIT Delhi
 
-## CV
-- [Download my full CV (PDF)](Shivani Mehta CV July 2026.pdf)
 
 
