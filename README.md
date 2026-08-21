@@ -2,6 +2,7 @@
 
 [![CV](https://img.shields.io/badge/Download_Full_CV-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](Shivani Mehta CV July 2026.pdf)
 [![Resume](https://img.shields.io/badge/Download_Resume-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](2020ANZ8490_research_resume.pdf)
+[![Research Statement](https://img.shields.io/badge/Download_Research_Statement-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](research_statement_aug2026.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-a-mehta-403597127/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Yjt9W28AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6955-4381)
@@ -18,6 +19,8 @@ Development of machine learning- and LLM-based geospatial tools for climate-resi
 
 ## Research statement
 Erratic rainfall due to climate change along with depleted groundwater tables poses a significant threat to the sustainability of agriculture in India, on which nearly half of the rural population depends for its livelihood and sustenance. In response, various welfare and social protection schemes in India fund the construction of water assets such as farm ponds and check dams, through participatory planning processes with rural communities embedded within local governance institutions. However, persistent challenges remain in such participatory planning processes, such as inequities in participation, instances of spurious and non-functional assets, and top-down guidelines that hinder context-sensitive planning. To address such challenges, I led the development of the underlying geospatial dataset infrastructure and the overall design of *Commons Connect*, a digital participatory tool designed to improve transparency and build community consensus to improve equity in asset allocation. The tool provides various geospatial datasets generated at village-level planning scales to identify viable and useful locations for assets. Building on this, I developed an impact projection framework as a digital-twin to simulate climate resilience under different what-if scenarios of planning. Finally, I built a scalable system for knowledge representation and transfer that enables the identification of localized landscape stresses using dozens of social-ecological indicators across diverse production systems and regions in India. Together, these contributions aim to bring evidence-based, equitable and climate-resilient community-led planning for rural areas. Tools like *Commons Connect* founded on my research are now being widely adopted and used across nine states in India. 
+
+Read my full research statement: **[here](research_statement_aug2026.pdf)**
 
 
 ## Publications
